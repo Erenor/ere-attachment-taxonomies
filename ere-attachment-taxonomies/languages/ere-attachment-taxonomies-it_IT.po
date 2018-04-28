@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ere Taxonomies for Attachments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-28 21:21+0000\n"
+"PO-Revision-Date: 2018-04-28 21:21+0000\n"
+"Last-Translator: Paz <erenor@erenor.net>\n"
+"Language-Team: Italiano\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: taxonomies/tax_atcategory.php:3
+msgctxt "Taxonomy labels"
+msgid "Categories"
+msgstr ""
+
+#: taxonomies/tax_atcategory.php:4 taxonomies/tax_atcategory.php:13
+msgctxt "Taxonomy labels"
+msgid "Category"
+msgstr ""
+
+#: taxonomies/tax_atcategory.php:5
+msgctxt "Taxonomy labels"
+msgid "Search Categories"
+msgstr ""
+
+#: taxonomies/tax_atcategory.php:6
+msgctxt "Taxonomy labels"
+msgid "All Categories"
+msgstr ""
+
+#: taxonomies/tax_atcategory.php:7
+msgctxt "Taxonomy labels"
+msgid "Parent Category"
+msgstr ""
+
+#: taxonomies/tax_atcategory.php:8
+msgctxt "Taxonomy labels"
+msgid "Parent Category:"
+msgstr ""
+
+#: taxonomies/tax_atcategory.php:9
+msgctxt "Taxonomy labels"
+msgid "Edit Category"
+msgstr ""
+
+#: taxonomies/tax_atcategory.php:10
+msgctxt "Taxonomy labels"
+msgid "Update Category"
+msgstr ""
+
+#: taxonomies/tax_atcategory.php:11
+msgctxt "Taxonomy labels"
+msgid "Add New Category"
+msgstr ""
+
+#: taxonomies/tax_atcategory.php:12
+msgctxt "Taxonomy labels"
+msgid "New Category Name"
+msgstr ""
+
+#: classes/admin.php:32
+msgctxt "Navigation menu labels"
+msgid "How to"
+msgstr ""
+
+#: classes/admin.php:37
+msgctxt "Navigation menu labels"
+msgid "View"
+msgstr ""
+
+#: classes/admin.php:42
+msgctxt "Navigation menu labels"
+msgid "New / Edit"
+msgstr ""
+
+#: classes/admin.php:47
+msgctxt "Navigation menu labels"
+msgid "Status"
+msgstr ""
+
+#. 'ere-attachment-taxonomies-settings',
+#: classes/admin.php:97
+msgctxt "Admin Menu page title"
+msgid "Attachments Taxonomies"
+msgstr ""
+
+#: classes/admin.php:98
+msgctxt "Testo usato per la voce nel menu di backend"
+msgid "Attachments Taxonomies"
+msgstr ""
+
+#: classes/admin.php:159
+msgctxt "Plugin page heading"
+msgid "View custom taxonomies for Attachments"
+msgstr ""
+
+#: classes/admin.php:160
+#, php-format
+msgctxt "Plugin page text"
+msgid "Here you can manage custom taxonomies for the post type '%s'"
+msgstr ""
+
+#: classes/admin.php:398
+#, php-format
+msgctxt "Error strings"
+msgid ""
+"Unable to delete file for taxonomy %s. Taxonomy has been correctly removed "
+"from settings."
+msgstr ""
+
+#: classes/admin.php:403
+#, php-format
+msgctxt "Error strings"
+msgid ""
+"Unable to find taxonomy file for %s. Taxonomy has been correctly removed "
+"from settings."
+msgstr ""
+
+#: classes/admin.php:419
+msgctxt "Error strings"
+msgid "Slugs not found"
+msgstr ""
+
+#: classes/admin.php:479
+msgctxt "Heading for back-end table"
+msgid "Flag to remove"
+msgstr ""
+
+#: classes/admin.php:480 classes/admin.php:867
+msgctxt "Heading for back-end table"
+msgid "Slug"
+msgstr ""
+
+#: classes/admin.php:481 classes/admin.php:868
+msgctxt "Heading for back-end table"
+msgid "Singular"
+msgstr ""
+
+#: classes/admin.php:482 classes/admin.php:869
+msgctxt "Heading for back-end table"
+msgid "Plural"
+msgstr ""
+
+#: classes/admin.php:483 classes/admin.php:870
+msgctxt "Heading for back-end table"
+msgid "Gender"
+msgstr ""
+
+#: classes/admin.php:484 classes/admin.php:871
+msgctxt "Heading for back-end table"
+msgid "Hierarchical?"
+msgstr ""
+
+#: classes/admin.php:485 classes/admin.php:872
+msgctxt "Heading for back-end table"
+msgid "Query Var?"
+msgstr ""
+
+#: classes/admin.php:486 classes/admin.php:873
+msgctxt "Heading for back-end table"
+msgid "Rewrite?"
+msgstr ""
+
+#: classes/admin.php:487 classes/admin.php:874
+msgctxt "Heading for back-end table"
+msgid "Show Admin Column?"
+msgstr ""
+
+#: classes/admin.php:525
+msgctxt "Error strings"
+msgid "One taxonomy correctly removed"
+msgstr ""
+
+#: classes/admin.php:533
+#, php-format
+msgctxt "Error strings"
+msgid "%s taxonomies correctly removed"
+msgstr ""
+
+#: classes/admin.php:552
+msgctxt "Values for back-end table"
+msgid "Yes"
+msgstr ""
+
+#: classes/admin.php:553
+msgctxt "Values for back-end table"
+msgid "No"
+msgstr ""
+
+#: classes/admin.php:578
+msgid "No saved taxonomies"
+msgstr ""
+
+#: classes/admin.php:587
+msgid "Remove selected taxonomies"
+msgstr ""
+
+#: classes/admin.php:645
+msgctxt "Error strings"
+msgid "Slug is missing"
+msgstr ""
+
+#: classes/admin.php:653
+msgctxt "Error strings"
+msgid "Slug contains not valid chars (make sure it's lowercase)"
+msgstr ""
+
+#: classes/admin.php:657
+msgctxt "Error strings"
+msgid "Taxonomy slug already exists"
+msgstr ""
+
+#: classes/admin.php:663
+msgctxt "Error strings"
+msgid "Singular is missing"
+msgstr ""
+
+#: classes/admin.php:671
+msgctxt "Error strings"
+msgid "Singular contains not valid chars"
+msgstr ""
+
+#: classes/admin.php:677
+msgctxt "Error strings"
+msgid "Plural is missing"
+msgstr ""
+
+#: classes/admin.php:685
+msgctxt "Error strings"
+msgid "Plural contains not valid chars"
+msgstr ""
+
+#: classes/admin.php:694
+msgctxt "Error strings"
+msgid "Gender not valid"
+msgstr ""
+
+#: classes/admin.php:811
+msgctxt "Error strings"
+msgid "Unable to write taxonomy file. Taxonomy inserted into settings"
+msgstr ""
+
+#: classes/admin.php:910
+msgid "Taxonomy successfully added"
+msgstr ""
+
+#: classes/admin.php:914
+msgid "Taxonomy successfully modified"
+msgstr ""
+
+#: classes/admin.php:926
+msgid "Add new taxonomy below"
+msgstr ""
+
+#: classes/admin.php:930
+msgid "Edit your taxonomy below"
+msgstr ""
+
+#: classes/admin.php:971
+msgid "Select one"
+msgstr ""
+
+#: classes/admin.php:974
+msgid "Masculine"
+msgstr ""
+
+#: classes/admin.php:977
+msgid "Feminine"
+msgstr ""
+
+#: classes/admin.php:980
+msgid "Neutral"
+msgstr ""
+
+#: classes/admin.php:1022
+msgid "Save"
+msgstr ""
+
+#: classes/admin.php:1091
+msgctxt "Plugin explanations"
+msgid "Welcome to Ere's Taxonomies Attachments"
+msgstr "Benvenuto in Ere's Taxonomies Attachments"
+
+#: classes/admin.php:1092
+msgctxt "Plugin explanations"
+msgid "This plugin helps you defining custom taxonomies for the Attachments"
+msgstr ""
+
+#: classes/admin.php:1093
+msgctxt "Plugin explanations"
+msgid ""
+"You can create a new taxonomy by selecting the 'New / Edit' tab and choosing "
+"the options that suit you"
+msgstr ""
+
+#: classes/admin.php:1094
+msgctxt "Plugin explanations"
+msgid ""
+"To get an overview of the currently created taxonomies, select the 'View' "
+"tab. There you can also delete a taxonomy by flagging it and pressing the "
+"Remove button"
+msgstr ""
+
+#: classes/admin.php:1095
+msgctxt "Plugin explanations"
+msgid ""
+"Before using the plugin, try the 'Status' tab to check if everything is ok "
+"and functional for your Wordpress installation"
+msgstr ""
+
+#: classes/admin.php:1126
+msgctxt "Error messages"
+msgid "Directory is writable: you will be able to create taxonomies correctly"
+msgstr ""
+
+#: classes/admin.php:1130
+msgctxt "Error messages"
+msgid ""
+"Unable to create test file into directory 'taxonomies': cannot create "
+"taxonomies automatically. You will be prompted with the code that have be "
+"inserted in a new file after creating a new taxonomy"
+msgstr ""
+
+#: classes/admin.php:1135
+msgctxt "Error messages"
+msgid ""
+"Directory 'taxonomies' is not writeable: cannot create taxonomies "
+"automatically. You will be prompted with the code that have be inserted in a "
+"new file after creating a new taxonomy"
+msgstr ""
+
+#: classes/admin.php:1146
+msgctxt "Error messages"
+msgid "Files are deletable: you will be able to delete taxonomies correctly"
+msgstr ""
+
+#: classes/admin.php:1151
+msgctxt "Error messages"
+msgid ""
+"Cannot delete files within directory 'taxonomies': you will have to manually "
+"remove the taxonomy file when deleting the taxonomy"
+msgstr ""
+
+#: classes/admin.php:1156
+msgctxt "Error messages"
+msgid "Unable to find test file"
+msgstr ""
+
+#: classes/admin.php:1162
+msgctxt "Error messages"
+msgid ""
+"An error occurred while checking if files are deletable in 'taxonomies' "
+"directory: you will have to manually remove the taxonomy file when deleting "
+"the taxonomy"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ere Taxonomies for Attachments"
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin that adds taxonomies to attachments"
+msgstr ""
+
+#. Author of the plugin
+msgid "Erenor"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://erenor.net"
+msgstr ""
